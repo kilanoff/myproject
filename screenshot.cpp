@@ -1,7 +1,7 @@
 #include "screenshot.h"
 #include "mainwindow.h"
 
-
+// тут будем писать код рисования по скриншоту
 
 MyScreenShot::MyScreenShot(QWidget *parent) :
     QLabel(parent)
