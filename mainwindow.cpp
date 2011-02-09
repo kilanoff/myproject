@@ -82,14 +82,6 @@ void MainWindow::event_startUploadScreenShot()
 
 
 
-
-
-
-
-
-
-
-
 QString MainWindow::secretkey(QString tmp_datetime)
 {
     QByteArray rbytes = QCryptographicHash::hash(QString(tmp_datetime+"lapizdos66ru").toAscii(), QCryptographicHash::Md5).toHex();
