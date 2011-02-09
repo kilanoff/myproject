@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/open.jpg</file>
+        <file>res/save.jpg</file>
+        <file>res/arr_t.jpg</file>
+        <file>res/arrow.jpg</file>
+        <file>res/circ.jpg</file>
+        <file>res/clear.jpg</file>
+        <file>res/color.jpg</file>
+        <file>res/crop.jpg</file>
+        <file>res/feedback.jpg</file>
+        <file>res/fill.jpg</file>
+        <file>res/fillcirc.jpg</file>
+        <file>res/help.jpg</file>
+        <file>res/index.jpg</file>
+        <file>res/line.jpg</file>
+        <file>res/line_horz.jpg</file>
+        <file>res/line_vert.jpg</file>
+        <file>res/pen.ico</file>
+        <file>res/pen.jpg</file>
+        <file>res/rect.jpg</file>
+        <file>res/resize.jpg</file>
+        <file>res/txt.jpg</file>
+        <file>res/undo.jpg</file>
+    </qresource>
+</RCC>
